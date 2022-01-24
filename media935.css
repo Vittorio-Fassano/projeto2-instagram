@@ -1,0 +1,17 @@
+@media (max-width: 935px) {
+    .perfil {
+        display: none;
+    }
+    .barra-topo {
+        width: 935px;
+    }
+    .pesquisar {
+        margin-left: 0px;
+    }
+    .logo {
+        margin-left: 20px;
+    }
+    .ícones {
+        margin-right: 20px;
+    }
+}
